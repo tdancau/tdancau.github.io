@@ -12,6 +12,6 @@ header_pages:
  - about.html
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 theme: jekyll-theme-cayman
 
